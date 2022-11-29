@@ -1,0 +1,15 @@
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\bin\Debug\net6.0\finalwork.exe
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\bin\Debug\net6.0\finalwork.deps.json
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\bin\Debug\net6.0\finalwork.runtimeconfig.json
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\bin\Debug\net6.0\finalwork.dll
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\bin\Debug\net6.0\finalwork.pdb
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\obj\Debug\net6.0\finalwork.csproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\obj\Debug\net6.0\finalwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\obj\Debug\net6.0\finalwork.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\obj\Debug\net6.0\finalwork.AssemblyInfo.cs
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\obj\Debug\net6.0\finalwork.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\obj\Debug\net6.0\finalwork.dll
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\obj\Debug\net6.0\refint\finalwork.dll
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\obj\Debug\net6.0\finalwork.pdb
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\obj\Debug\net6.0\finalwork.genruntimeconfig.cache
+C:\Users\Artur\Desktop\Practice GH C#\1QFinalWork\finalwork\obj\Debug\net6.0\ref\finalwork.dll
